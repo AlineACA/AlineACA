@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AlineACA
+- 👀 I’m interested in Back-end, Quality, and Infraestructure!
+- 🌱 I’m currently learning Java!
+- 💞️ I’m looking to collaborate on Postman projects!
+- 📫 You can reach me through coutinhoaline777@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love angel numbers!
