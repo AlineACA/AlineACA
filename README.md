@@ -31,6 +31,3 @@ I’m interested in Back-end, Quality Assurance, and Infraestructure. I'm focuse
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aline-coutinho-437218227)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlineACA)
 
-## Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Tips-tools)](https://github.com/AlineACA/github-readme-stats)
